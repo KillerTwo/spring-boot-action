@@ -8,5 +8,6 @@
   <modules>
   	<module>spring-boot</module>
   	<module>server</module>
+  	<module>webservice</module>
   </modules>
 </project>
